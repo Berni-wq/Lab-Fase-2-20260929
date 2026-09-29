@@ -1,0 +1,5 @@
+---
+- Master del clúster: <http://localhost:8080>
+- JupyterLab (este notebook): <http://localhost:8889/lab?token=lab-sitio3>
+- Driver de esta sesión: <http://localhost:4040>
+- History server, tras cerrar la sesión: <http://localhost:18080> (`--profile history`)
